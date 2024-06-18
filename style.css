@@ -1,0 +1,31 @@
+body {
+    font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  }
+
+
+header{
+    background-color: aquamarine;
+    
+    padding: 20px;
+}
+
+header ul{
+    margin-left: 400px;
+    font-size: 20;
+}
+
+header ul li{
+    list-style-type: none;
+    display: inline;
+    margin-left: 40px;
+}
+
+header input{
+    float: right;
+    margin-right: 10;
+    padding: 10;
+    border-radius: 30px;
+    border: none;
+}
